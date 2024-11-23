@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "image": "images/bonnet1.jpg",
+        "title": "Under-Hijab & Bonnets",
+        "description": "Comfortable and breathable, our Under-Hijabs and Bonnets provide perfect support under all your veils.",
+        "price": 20
+    },
+    {
+        "id": 3,
+        "image": "images/bonnet3.jpg",
+        "title": "Elegant Bonnet",
+        "description": "Stylish and comfortable for daily wear.",
+        "price": 30
+    },
+    {
+        "id": 4,
+        "image": "images/bonnet4.jpg",
+        "title": "Casual Bonnet",
+        "description": "Perfect for everyday use with a touch of elegance.",
+        "price": 18
+    },
+    {
+        "id": 5,
+        "image": "images/bonnet5.jpg",
+        "title": "Premium Bonnet",
+        "description": "Elegant design with premium fabric for maximum comfort.",
+        "price": 35
+    },
+    {
+        "id": 6,
+        "image": "images/bonnet6.jpg",
+        "title": "Classic Under-Hijab",
+        "description": "A classic design for all occasions.",
+        "price": 22
+    },
+    {
+        "id": 7,
+        "image": "images/bonnet7.jpg",
+        "title": "Luxury Velvet Bonnet",
+        "description": "Soft velvet fabric for a luxurious feel.",
+        "price": 40
+    },
+    {
+        "id": 8,
+        "image": "images/bonnet8.jpg",
+        "title": "Sporty Bonnet",
+        "description": "Perfect for athletic activities, breathable and comfortable.",
+        "price": 28
+    },
+    
+    {
+        "id": 12,
+        "image": "images/bonnet12.jpg",
+        "title": "Fashionable Bonnet",
+        "description": "Trendy and stylish bonnet for fashion-conscious wearers.",
+        "price": 30
+    },
+    {
+        "id": 13,
+        "image": "images/bonnet13.jpg",
+        "title": "Winter Bonnet",
+        "description": "Warm and cozy bonnet for winter days.",
+        "price": 38
+    },
+    {
+        "id": 14,
+        "image": "images/bonnet14.jpg",
+        "title": "Floral Bonnet",
+        "description": "Beautiful floral print for a unique look.",
+        "price": 32
+    },
+    {
+        "id": 15,
+        "image": "images/bonnet15.jpg",
+        "title": "Chic Bonnet",
+        "description": "Chic and elegant bonnet for every occasion.",
+        "price": 29
+    },
+    {
+        "id": 16,
+        "image": "images/bonnet16.jpg",
+        "title": "Designer Bonnet",
+        "description": "Premium designer bonnet for the fashion-forward.",
+        "price": 60
+    }
+]

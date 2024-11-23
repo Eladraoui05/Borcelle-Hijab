@@ -1,0 +1,115 @@
+    [
+        {
+        "id": 1,
+        "title": "belle Sets",
+        "description": "Comfortable and stylish, perfect for all occasions.",
+        "price": 20,
+        "image": "/images/ens1.jpg"
+        },
+        {
+        "id": 2,
+        "title": "magnifique Sets",
+        "description": "Elegant and breathable sets for daily wear.",
+        "price": 25,
+        "image": "/images/ens2.jpg"
+        },
+        {
+        "id": 3,
+        "title": "LuxurySets",
+        "description": "Versatile and chic sets for any event.",
+        "price": 22,
+        "image": "/images/ens3.jpg"
+        },
+        {
+        "id": 4,
+        "title": "LuxurySets",
+        "description": "Comfortable fabric for a luxurious feel.",
+        "price": 24,
+        "image": "/images/ens4.jpg"
+        },
+        {
+        "id": 5,
+        "title": "Sets",
+        "description": "A blend of comfort and elegance.",
+        "price": 23,
+        "image": "/images/ens5.jpg"
+        },
+        {
+        "id": 6,
+        "title": "Sets",
+        "description": "Simple yet stylish sets for every day.",
+        "price": 21,
+        "image": "/images/ens6.jpg"
+        },
+        {
+        "id": 7,
+        "title": "Sets",
+        "description": "Premium quality, designed for elegance.",
+        "price": 26,
+        "image": "/images/ens7.jpg"
+        },
+        {
+        "id": 8,
+        "title": "Sets",
+        "description": "Luxurious feel and stylish look.",
+        "price": 27,
+        "image": "/images/ens8.jpg"
+        },
+        {
+        "id": 9,
+        "title": "Sets",
+        "description": "Comfort and style for any occasion.",
+        "price": 28,
+        "image": "/images/ens9.jpg"
+        },
+        {
+        "id": 10,
+        "title": "Sets",
+        "description": "Perfect sets for elegance and comfort.",
+        "price": 30,
+        "image": "/images/ens10.jpg"
+        },
+        {
+        "id": 11,
+        "title": "Sets",
+        "description": "Stylish sets for a modern look.",
+        "price": 29,
+        "image": "/images/ens11.jpg"
+        },
+        {
+        "id": 12,
+        "title": "Sets",
+        "description": "Chic and breathable for any season.",
+        "price": 25,
+        "image": "/images/ens12.jpg"
+        },
+        {
+        "id": 13,
+        "title": "Sets",
+        "description": "Elegant and comfortable, perfect for gatherings.",
+        "price": 26,
+        "image": "/images/ens13.jpg"
+        },
+        {
+        "id": 14,
+        "title": "Sets",
+        "description": "Timeless elegance with every piece.",
+        "price": 23,
+        "image": "/images/ens14.jpg"
+        },
+        {
+        "id": 15,
+        "title": "Sets pour les femme",
+        "description": "Classic style with a touch of modern.",
+        "price": 32,
+        "image": "/images/ens15.jpg"
+        },
+        {
+        "id": 16,
+        "title": "Sets jolie",
+        "description": "Stylish sets for a refined look.",
+        "price": 31,
+        "image": "/images/ens16.jpg"
+        }
+    ]
+    

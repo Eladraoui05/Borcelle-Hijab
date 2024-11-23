@@ -1,0 +1,176 @@
+.product-dashboard {
+    width: 100vw; 
+    padding: 20px;
+    box-sizing: border-box; 
+  
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #333333;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+    color: #555555;
+  }
+  
+  .form-container {
+    padding: 20px;
+    background-color: #f3f3f3;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  
+  form input,
+  form textarea,
+  form select {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 1.1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  form input[type="file"] {
+    border: none;
+  }
+  
+  .form-buttons {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .form-buttons button {
+    padding: 10px 20px;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+  }
+  
+  .form-buttons button[type="submit"] {
+    background-color: #4CAF50;
+  }
+  
+  .form-buttons button[type="button"] {
+    background-color: #f44336;
+  }
+
+  button {
+    padding: 12px 20px;
+    margin: 20px 0;
+    font-size: 1.2rem;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+
+  table {
+    width: 100%; 
+    max-width: 100%; 
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  thead {
+    background-color: #f1f1f1;
+  }
+  
+  thead th {
+    font-size: 1.5rem;
+    padding: 15px;
+    text-align: left;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  tbody td {
+    font-size: 2rem;
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  tbody tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .product-dashboard img {
+    border-radius: 5px;
+    max-width: 100px; 
+    max-height: 100px;
+  }
+
+  td button {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+  }
+  
+  td button:first-child {
+    background-color: #007BFF;
+  }
+  
+  td button:last-child {
+    background-color: #f44336;
+  }
+  
+  td button:hover:first-child {
+    background-color: #0056b3;
+  }
+  
+  td button:hover:last-child {
+    background-color: #d32f2f;
+  }
+  @media (min-width: 1200px) {
+    .product-dashboard {
+      width: 90vw;
+      max-width: 1400px;
+      margin: 0 auto;
+    }}
+    @media (max-width: 600px) {
+      .product-dashboard {
+          width: 100vw;  
+          padding: 10px; 
+          box-sizing: border-box; 
+      }
+  
+      .product-dashboard .product-item {
+          width: 100%;  
+          margin-bottom: 15px; 
+      }
+  
+      .product-dashboard h1 {
+          font-size: 18px; 
+          text-align: center;
+      }
+  
+      .product-dashboard .product-item img {
+          width: 100%;  
+          height: auto;
+      }
+
+      .product-dashboard .buy-button {
+          width: 100%;  
+          padding: 12px;
+          font-size: 16px;
+      }
+  }

@@ -1,0 +1,114 @@
+[
+        {
+        "id": 1,
+        "image": "images/event1.jpg",
+        "title": "Under-Hijab & Bonnets",
+        "description": "Comfortable and breathable, our Under-Hijabs and Bonnets provide perfect support under all your veils.",
+        "price": 20
+        },
+        {
+        "id": 2,
+        "image": "images/event2.jpg",
+        "title": "Under-Hijab & Bonnets",
+        "description": "Comfortable and breathable, our Under-Hijabs and Bonnets provide perfect support under all your veils.",
+        "price": 20
+        },
+        {
+        "id": 3,
+        "image": "images/event3.jpg",
+        "title": "Hijab for Brides",
+        "description": "Elegant and stylish, our Hijabs for Brides offer a flawless finish for your wedding day.",
+        "price": 25
+        },
+        {
+        "id": 4,
+        "image": "images/event4.jpg",
+        "title": "Luxury Bridal Set",
+        "description": "A luxurious set for the modern bride, perfect for your special day.",
+        "price": 50
+        },
+        {
+        "id": 5,
+        "image": "images/event5.jpg",
+        "title": "Bridal Veil & Hijab Combo",
+        "description": "Get the perfect bridal look with this veil and hijab combo set.",
+        "price": 30
+        },
+        {
+        "id": 6,
+        "image": "images/event6.jpg",
+        "title": "Wedding Hijab with Lace",
+        "description": "A beautiful wedding hijab adorned with delicate lace for a touch of elegance.",
+        "price": 35
+        },
+        {
+        "id": 7,
+        "image": "images/event7.jpg",
+        "title": "Soft Satin Hijab",
+        "description": "Elegant soft satin hijab perfect for brides looking for comfort and style.",
+        "price": 18
+        },
+        {
+        "id": 8,
+        "image": "images/event8.jpg",
+        "title": "Satin Bridal Shawl",
+        "description": "A luxurious satin bridal shawl to complement your wedding dress.",
+        "price": 22
+        },
+        {
+        "id": 9,
+        "image": "images/event9.jpg",
+        "title": "Golden Embroidered Hijab",
+        "description": "A golden embroidered hijab for brides seeking a touch of sparkle.",
+        "price": 40
+        },
+        {
+        "id": 10,
+        "image": "images/event10.jpg",
+        "title": "Bride's Veil & Hijab Set",
+        "description": "Perfect set for the bride, featuring a veil and matching hijab.",
+        "price": 45
+        },
+        {
+        "id": 11,
+        "image": "images/event11.jpg",
+        "title": "Elegant Bridal Headpiece",
+        "description": "Complete your bridal look with this stunning headpiece.",
+        "price": 60
+        },
+        {
+        "id": 12,
+        "image": "images/event12.jpg",
+        "title": "Pearl Bridal Hijab",
+        "description": "A pearl-embellished hijab perfect for a graceful and sophisticated bride.",
+        "price": 55
+        },
+        {
+        "id": 13,
+        "image": "images/event13.jpg",
+        "title": "Wedding Hijab with Swarovski Crystals",
+        "description": "A sparkling wedding hijab adorned with Swarovski crystals for a stunning effect.",
+        "price": 70
+        },
+        {
+        "id": 14,
+        "image": "images/event14.jpg",
+        "title": "Classic Bridal Hijab",
+        "description": "A classic bridal hijab with a simple, timeless design.",
+        "price": 15
+        },
+        {
+        "id": 15,
+        "image": "images/event15.jpg",
+        "title": "Bridal Lace Shawl",
+        "description": "A delicate lace shawl designed to complement your wedding gown.",
+        "price": 38
+        },
+        {
+        "id": 16,
+        "image": "images/event16.jpg",
+        "title": "Chiffon Wedding Hijab",
+        "description": "A light and flowing chiffon hijab for a graceful and airy bridal look.",
+        "price": 28
+        }
+    ]

@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "image": "images/bnt1.jpg",
+        "title": "Hijab & Shawls",
+        "description": "Comfortable and breathable, our Under-Hijabs and Bonnets provide perfect support under all your veils.",
+        "price": 20
+    },
+    {
+        "id": 2,
+        "image": "images/bnt2.jpg",
+        "title": "Hijab & Shawls",
+        "description": "Elegant and stylish, perfect for all occasions.",
+        "price": 25
+    },
+    {
+        "id": 3,
+        "image": "images/bnt3.jpg",
+        "title": "Evening Shawl",
+        "description": "Soft and luxurious, perfect for formal events.",
+        "price": 30
+    },
+    {
+        "id": 4,
+        "image": "images/bnt4.jpg",
+        "title": "Elegant Shawl",
+        "description": "Graceful and chic, an essential accessory for special occasions.",
+        "price": 22
+    },
+    {
+        "id": 5,
+        "image": "images/bnt5.jpg",
+        "title": "Summer Hijab",
+        "description": "Light and breathable, ideal for the warm season.",
+        "price": 18
+    },
+    {
+        "id": 6,
+        "image": "images/bnt6.jpg",
+        "title": "Luxe Shawl",
+        "description": "Luxurious material for the most refined look.",
+        "price": 35
+    },
+    {
+        "id": 7,
+        "image": "images/bnt7.jpg",
+        "title": "Cotton Hijab",
+        "description": "Soft and comfortable cotton fabric for everyday wear.",
+        "price": 15
+    },
+    {
+        "id": 8,
+        "image": "images/bnt8.jpg",
+        "title": "Winter Shawl",
+        "description": "Stay warm with this soft, winter-friendly shawl.",
+        "price": 28
+    },
+    {
+        "id": 9,
+        "image": "images/bnt9.jpg",
+        "title": "Premium Hijab",
+        "description": "High-end material for premium comfort and style.",
+        "price": 40
+    },
+    {
+        "id": 10,
+        "image": "images/bnt10.jpg",
+        "title": "Chiffon Shawl",
+        "description": "A lightweight, airy shawl for all seasons.",
+        "price": 24
+    },
+    {
+        "id": 11,
+        "image": "images/bnt11.jpg",
+        "title": "Silk Hijab",
+        "description": "Soft silk for the most luxurious feel.",
+        "price": 50
+    },
+    {
+        "id": 12,
+        "image": "images/bnt12.jpg",
+        "title": "Sport Hijab",
+        "description": "Perfect for active wear, breathable and comfortable.",
+        "price": 19
+    },
+    {
+        "id": 13,
+        "image": "images/bnt13.jpg",
+        "title": "Chic Shawl",
+        "description": "Fashionable and elegant, perfect for every outfit.",
+        "price": 23
+    },
+    {
+        "id": 14,
+        "image": "images/bnt14.jpg",
+        "title": "Cashmere Hijab",
+        "description": "A soft and warm cashmere hijab for the colder months.",
+        "price": 45
+    },
+    {
+        "id": 15,
+        "image": "images/bnt15.jpg",
+        "title": "Evening Shawl",
+        "description": "A glamorous shawl perfect for formal events.",
+        "price": 33
+    },
+    {"id": 16,
+    "image": "images/bnt16.jpg",
+    "title": "Evening Shawl",
+    "description": "A glamorous shawl perfect for formal events.",
+    "price": 36
+}
+]

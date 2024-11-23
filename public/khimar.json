@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "title": "Elegant Khimar 1",
+        "description": "Stylish and elegant khimar perfect for prayer and daily wear.",
+        "image": "images/khimar1.jpg",
+        "price": 25
+    },
+    {
+        "id": 2,
+        "title": "Elegant Khimar 2",
+        "description": "A modern design with breathable fabric for all-day comfort.",
+        "image": "images/khimar2.jpg",
+        "price": 30
+    },
+    {
+        "id": 3,
+        "title": "Comfortable Khimar",
+        "description": "A comfortable khimar designed with soft material for maximum comfort.",
+        "image": "images/khimar3.jpg",
+        "price": 35
+    },
+    {
+        "id": 4,
+        "title": "Classic Khimar",
+        "description": "A classic khimar with a beautiful design that suits all occasions.",
+        "image": "images/khimar4.jpg",
+        "price": 20
+    },
+    {
+        "id": 5,
+        "title": "Elegant Khimar 1",
+        "description": "Stylish and elegant khimar perfect for prayer and daily wear.",
+        "image": "images/khimar5.jpg",
+        "price": 25
+    },
+    {
+        "id": 6,
+        "title": "Elegant Khimar 2",
+        "description": "A modern design with breathable fabric for all-day comfort.",
+        "image": "images/khimar6.jpg",
+        "price": 30
+    },
+    {
+        "id": 8,
+        "title": "Classic Khimar",
+        "description": "A classic khimar with a beautiful design that suits all occasions.",
+        "image": "images/khimar8.jpg",
+        "price": 20
+    },
+    {
+        "id": 9,
+        "title": "Elegant Khimar ",
+        "description": "Stylish and elegant khimar perfect for prayer and daily wear.",
+        "image": "images/khimar9.jpg",
+        "price": 25
+    },
+    {
+        "id": 10,
+        "title": "Elegant Khimar ",
+        "description": "A modern design with breathable fabric for all-day comfort.",
+        "image": "images/khimar10.jpg",
+        "price": 30
+    },
+    {
+        "id": 11,
+        "title": "Comfortable Khimar",
+        "description": "A comfortable khimar designed with soft material for maximum comfort.",
+        "image": "images/khimar11.jpg",
+        "price": 35
+    },
+    {
+        "id": 12,
+        "title": "Classic Khimar",
+        "description": "A classic khimar with a beautiful design that suits all occasions.",
+        "image": "images/khimar12.jpg",
+        "price": 20
+    }
+]
